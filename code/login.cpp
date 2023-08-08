@@ -6,6 +6,8 @@ Login::Login(QWidget *parent) :
     ui(new Ui::Login)
 {
     ui->setupUi(this);
+
+    ui->label->setText("五子棋登陆界面");
 }
 
 Login::~Login()

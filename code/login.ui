@@ -31,7 +31,8 @@
    <string>Form</string>
   </property>
   <property name="styleSheet">
-   <string notr="true">QWidget#Login{background-color: rgb(165, 247, 247);}
+   <string notr="true">QWidget#Login{background-color: rgb(204, 204, 204);}
+
 
 
 QPushButton{
@@ -155,7 +156,7 @@ QPushButton:pressed
         <property name="styleSheet">
          <string notr="true">QLineEdit{ border: none}
 QLineEdit{color: rgba(0, 0, 0， 40); }
-QLineEdit{background-color: rgb(165, 247, 247);}
+QLineEdit{background-color: rgb(204, 204, 204);}
 </string>
         </property>
         <property name="text">
@@ -270,7 +271,7 @@ QLineEdit{ border: none}
         </property>
         <property name="styleSheet">
          <string notr="true">QLineEdit{ border: none}
-QLineEdit{background-color: rgb(165, 247, 247);}</string>
+QLineEdit{background-color: rgb(204, 204, 204);}</string>
         </property>
         <property name="text">
          <string>000000</string>
