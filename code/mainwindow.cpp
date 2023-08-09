@@ -88,5 +88,6 @@ void MainWindow::getLogin()
 
 void MainWindow::cancelLogin()
 {
+    this->close();
     qApp->quit();
 }

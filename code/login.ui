@@ -155,8 +155,9 @@ QPushButton:pressed
         </property>
         <property name="styleSheet">
          <string notr="true">QLineEdit{ border: none}
+
 QLineEdit{color: rgba(0, 0, 0， 40); }
-QLineEdit{background-color: rgb(204, 204, 204);}
+QLineEdit{background-color: rgb(139, 209, 209);}
 </string>
         </property>
         <property name="text">

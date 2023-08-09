@@ -1,10 +1,9 @@
 #ifndef LOGIN_H
 #define LOGIN_H
 
-#include <QWidget>
+#include <QMainWindow>
 #include <QMessageBox>
-
-
+#include <mainwindow.h>
 namespace Ui {
 class Login;
 }
